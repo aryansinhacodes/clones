@@ -1,6 +1,6 @@
 # 🧩 Frontend Clones Collection
 
-A collection of all the **frontend clones** I’ve made from **2023 to now** — built to learn, practice, and have fun with web design and development.
+A collection of all the **frontend clones** I’ve made from **2023 to now**, I built to learn, practice, and have fun with web design and development.
 
 I’m uploading everything here to **keep track of my work and progress** as a frontend developer.  
 Some were early experiments, some more refined — all part of my learning journey 🚀
