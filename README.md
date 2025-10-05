@@ -32,7 +32,7 @@ Depending on the project:
 
 ## 🎯 Purpose
 
-This repo is simply to **document my growth** as a frontend developer.  
+This repo is to **document my growth** as a frontend developer.  
 I like keeping my older work visible to see how far I’ve come — and how my code, design sense, and problem-solving have improved over time.
 
 ---
@@ -46,7 +46,7 @@ I like keeping my older work visible to see how far I’ve come — and how my c
 
 ## ⚠️ Notes
 
-- Some clones might **not be responsive**, especially the older ones. And I am super lazy to do so but who know maybe in future?  
+- Some clones might **not be responsive**, especially the older ones. And I am super lazy to do so, but who knows, maybe in the future?  
 - Every folder includes its own **README.md** explaining what it is, when I built it, and what I learned from it.  
 - I’ll keep adding the old clones time to time and new clones whenever I make one.
 
